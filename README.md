@@ -25,8 +25,6 @@ A base é composta por três arquivos públicos:
 | `airports.csv` | Informações dos aeroportos (cidade, estado, lat/lon) |
 | `airlines.csv` | Nome completo das companhias aéreas |
 
-> **Download:** [Base de dados — MLET Fase 3](https://www.kaggle.com/datasets/usdot/flight-delays)
-
 ---
 
 ## 📊 EDA — Análise Exploratória
@@ -93,6 +91,8 @@ O modelo falha principalmente em atrasos extremos (>1.000 min) causados por even
 
 ---
 
-## 👤 Autor
+## 👤 Autores
 
-**Matheus Pavani** — POSTECH Machine Learning Engineering
+**Pedro Di Gianni**
+**Dely Junior**
+**Tatiane Bistulfi**
